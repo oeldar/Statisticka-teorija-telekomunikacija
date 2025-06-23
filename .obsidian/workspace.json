@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2db81d2bdaeaf10c",
+        "id": "2eb176e25c7ee542",
         "type": "tabs",
         "children": [
           {
-            "id": "0c9b63cfba3108f0",
+            "id": "3038e330669186ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Slucajna promjenjiva, raspodjela vjerovatnoce, momenti.md",
+                "file": "Slucajni procesi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Slucajna promjenjiva, raspodjela vjerovatnoce, momenti"
-            }
-          },
-          {
-            "id": "7764f20fcee5f3d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Slucajna promjenjiva, raspodjela vjerovatnoce, momenti.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Slucajna promjenjiva, raspodjela vjerovatnoce, momenti"
-            }
-          },
-          {
-            "id": "63e355d4548f254e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zadaci.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zadaci"
-            }
-          },
-          {
-            "id": "a406573a82fe64f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AV/AV1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AV1"
-            }
-          },
-          {
-            "id": "42fd057fc159c0a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AV4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AV4"
+              "title": "Slucajni procesi"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1982b0df16af9c1e",
@@ -226,8 +170,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "42fd057fc159c0a8",
+  "active": "3038e330669186ae",
   "lastOpenFiles": [
+    "Slucajni procesi.md",
     "AV4.md",
     "AV/AV1.md",
     "7. Diskretne raspodjele.md",
